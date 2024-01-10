@@ -1,0 +1,11 @@
+.App {
+  background-color: #1b1717;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  height: 100dvh;
+  width: 100dvw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
